@@ -1,1 +1,2 @@
-# Artwork-generator-gan
+#Generation of Artworks using GANs (Generative Adversarial Networks):
+A generative adversarial network (GAN) is a class of machine learning frameworks and a prominent framework for approaching generative AI. The concept was initially developed by Ian Goodfellow and his colleagues in June 2014. In a GAN, two neural networks contest with each other in the form of a zero-sum game, where one agent's gain is another agent's loss.
